@@ -1,4 +1,12 @@
-USE vk2;
+
+/*
+
+          Добрый день! Ниже sql запрос на изменение столбца name в таблице media-types.
+
+*/
+
+
+USE vk2;  -- vk2 - название базы данных.
 
 UPDATE media_types
 SET
